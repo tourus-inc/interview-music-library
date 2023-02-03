@@ -1,0 +1,158 @@
+[
+  {
+    "name": "The Beatles",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/The_Fabs.JPG/440px-The_Fabs.JPG",
+    "albums": [
+      {
+        "title": "Abbey Road",
+        "cover_art": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+        "tracks": [
+            {
+              "title": "Come Together",
+              "is_hidden": false
+            },
+            {
+              "title": "Something",
+              "is_hidden": false
+            },
+            {
+              "title": "Maxwell's Silver Hammer",
+              "is_hidden": false
+            },
+            {
+              "title": 	"Ooops! Darling",
+              "is_hidden": true
+            }
+        ]
+      },
+      {
+        "title": "Yellow Submarine",
+        "cover_art": "https://en.wikipedia.org/wiki/File:TheBeatles-YellowSubmarinealbumcover.jpg",
+        "tracks": [
+           {
+              "title": 	"Yellow Submarine",
+              "is_hidden": false
+            },
+            {
+              "title":  "Only a Northern Song",
+              "is_hidden": false
+            }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Beyoncé",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png/440px-Beyonc%C3%A9_at_The_Lion_King_European_Premiere_2019.png",
+    "albums": [
+      {
+        "title": "Renaissance",
+        "cover_art": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png",
+        "tracks": [
+          {
+            "title": "I'm That Girl",
+            "is_hidden": false
+          },
+          {
+            "title": "I'm NOT That Girl",
+            "is_hidden": true
+          },
+          {
+            "title": "Cozy",
+            "is_hidden": false
+          },
+          {
+            "title": "Alien Superstar",
+            "is_hidden": false
+          },
+          {
+            "title": 	"Cuff It",
+            "is_hidden": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pink Floyd",
+    "picture": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pink_Floyd_-_all_members.jpg",
+    "albums": [
+      {
+        "title": "The Dark Side of the Moon",
+        "cover_art": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+        "tracks": [
+          {
+            "title": "Speak to Me",
+            "is_hidden": false
+          },
+          {
+            "title": "Breathe",
+            "is_hidden": false
+          },
+          {
+            "title": "On the Run",
+            "is_hidden": false
+          },
+          {
+            "title": "Time",
+            "is_hidden": false
+          },
+          {
+            "title": "The Great Gig in the Sky",
+            "is_hidden": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "FKA Twigs",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FKA_twigs_%2816391770926%29_%28cropped%29.jpg/440px-FKA_twigs_%2816391770926%29_%28cropped%29.jpg",
+    "albums": [
+      {
+        "title": "Caprisongs",
+        "cover_art": "https://upload.wikimedia.org/wikipedia/en/8/89/FKA_twigs_-_Caprisongs.jpeg",
+        "tracks": [
+          {
+            "featured_artists": ["The Weeknd"],
+            "album": "Caprisongs",
+            "title": "Tears in the Club (featuring the Weeknd)",
+            "is_hidden": false
+          },
+          {
+            "album": "Caprisongs",
+            "title": "Oh My Love",
+            "is_hidden": false
+          },
+          {
+            "album": "Caprisongs",
+            "title": "Pamplemousse",
+            "is_hidden": false
+          },
+          {
+            "featured_artists": ["Shygirl"],
+            "album": "Caprisongs",
+            "title": "Papi Bones (featuring Shygirl)",
+            "is_hidden": false
+          },
+          {
+            "album": "Caprisongs",
+            "title": "Thank You Song",
+            "is_hidden": false
+          }
+          
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Weeknd",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Weeknd_Portrait_by_Brian_Ziff.jpg/440px-The_Weeknd_Portrait_by_Brian_Ziff.jpg",
+    "albums": []
+  },
+  {
+    "name": "Shygirl",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Shygirl.jpg/440px-Shygirl.jpg",
+    "albums": []
+  }
+]
