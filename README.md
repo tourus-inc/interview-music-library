@@ -61,19 +61,3 @@ Review these tasks and complete them in order, you may not finish all tasks, tha
 - [ ] What improvments would you make to the current codebase?
 - [ ] How would you update the models to also support other people who need credit: songwriters, producers, etc.
 
-
-----------------------------------------------------------------
-
-
-# Using Replit
-## Running the Django Server
-- Click "Run" on the toolbar to start the Django Server
-
-## Installing packages
-To add packages to your repl, you can just import directly in the file you want to use the package in, and it will automatically be installed when you press the run button. Like below:
-```python
-import math
-import pandas as pd
-```
-
-You could also install packages by using the Replit packager interface in the left sidebar.
