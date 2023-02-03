@@ -1,6 +1,14 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-"features": {
-	"ghcr.io/devcontainers-contrib/features/poetry:2": {}
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/poetry:2": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "MS-vsliveshare.vsliveshare",
+        "ms-python.vscode-pylance"
+      ]
+    }
   }
 }
