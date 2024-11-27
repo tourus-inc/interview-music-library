@@ -57,7 +57,9 @@ Review these tasks and complete them in order, you may not finish all tasks, tha
 - [ ] Add ability to manage tracks on an album from the album edit view
 
 ### Technical Architecture Discussion
+#### API
 - [ ] How would you update the models to specify the track order?
 - [ ] What improvments would you make to the current codebase?
 - [ ] How would you update the models to also support other people who need credit: songwriters, producers, etc.
-
+#### AI
+- [ ] Assuming there's an extensive backlog of data, how would you extrat insights on which albums are likely to receive platinum?
