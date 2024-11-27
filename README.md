@@ -9,7 +9,7 @@
 
 ## Rules
 - You are allowed to use the internet: google, stackoverflow, chatgpt, etc.
-- You can ask your interviewer clarifying questions 
+- You can ask your interviewer clarifying questions, we're pairing on this together
 
 ## Tips
 - Talk through your choices and decisions
